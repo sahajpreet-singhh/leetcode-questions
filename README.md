@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
