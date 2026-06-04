@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
