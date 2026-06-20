@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0263-ugly-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
