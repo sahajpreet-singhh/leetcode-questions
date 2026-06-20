@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0485-max-consecutive-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
