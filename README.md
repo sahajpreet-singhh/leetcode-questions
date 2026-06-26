@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
