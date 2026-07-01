@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0242-valid-anagram) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
 |  |
 | ------- |
