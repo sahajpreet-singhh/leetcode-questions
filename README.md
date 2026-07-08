@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0796-rotate-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0052-n-queens-ii) |
+| [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -228,5 +232,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
