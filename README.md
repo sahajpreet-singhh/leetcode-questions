@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0242-valid-anagram) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -269,4 +273,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
