@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
