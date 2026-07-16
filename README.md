@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0344-reverse-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 ## Math
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
+| [0344-reverse-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
