@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0263-ugly-number) |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 ## String Matching
@@ -289,5 +291,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
