@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0485-max-consecutive-ones) |
+| [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1046-last-stone-weight) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 ## Math
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
