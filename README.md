@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0841-keys-and-rooms](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0841-keys-and-rooms](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
