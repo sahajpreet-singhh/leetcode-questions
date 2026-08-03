@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -426,6 +429,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
