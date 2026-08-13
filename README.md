@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
