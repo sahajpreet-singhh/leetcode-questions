@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Stack
 |  |
@@ -549,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
