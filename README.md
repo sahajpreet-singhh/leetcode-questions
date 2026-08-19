@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0746-min-cost-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
