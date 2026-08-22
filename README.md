@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1046-last-stone-weight) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1514-path-with-maximum-probability) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Stack
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
