@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0014-longest-common-prefix) |
@@ -56,8 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0036-valid-sudoku) |
@@ -75,8 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -92,8 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
@@ -105,8 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0066-plus-one) |
@@ -125,8 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -136,14 +136,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0322-coin-change) |
@@ -159,8 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
@@ -172,25 +173,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
@@ -204,12 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
@@ -219,8 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0100-same-tree) |
@@ -257,22 +258,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0509-fibonacci-number) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0072-edit-distance/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
@@ -287,8 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -297,35 +299,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0055-jump-game) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0014-longest-common-prefix) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0547-number-of-provinces) |
@@ -335,8 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0051-n-queens) |
@@ -344,8 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -370,8 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0063-unique-paths-ii) |
@@ -384,23 +386,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0796-rotate-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0796-rotate-string) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0100-same-tree) |
@@ -431,8 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0100-same-tree) |
@@ -463,17 +465,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -489,25 +491,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0547-number-of-provinces) |
@@ -523,98 +525,98 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
 ## Bipartite Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0207-course-schedule) |
 ## Kosaraju's Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 ## Tarjan's SCC Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0743-network-delay-time](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0743-network-delay-time](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 ## Minimum Spanning Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Prim's Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Kruskal's Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Borůvka's Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Bellman–Ford Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Floyd–Warshall Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 ## Knapsack Problem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0279-perfect-squares](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0279-perfect-squares](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0322-coin-change) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0062-unique-paths) |
 ## 0-1 Knapsack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Longest Common Subsequence
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
