@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0997-find-the-town-judge) |
+| [2351-first-letter-to-appear-twice](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2351-first-letter-to-appear-twice](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
