@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0279-perfect-squares](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0210-course-schedule-ii) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -628,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1143-longest-common-subsequence) |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
