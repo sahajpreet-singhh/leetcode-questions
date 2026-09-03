@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0231-power-of-two](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0263-ugly-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0072-edit-distance/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0279-perfect-squares](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0279-perfect-squares) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0100-same-tree) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0100-same-tree) |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
