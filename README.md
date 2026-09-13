@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
 | [0953-verifying-an-alien-dictionary](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0835-image-overlap/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
