@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -700,4 +701,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
