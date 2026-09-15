@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Stack
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0055-jump-game) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
