@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0682-baseball-game/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0682-baseball-game/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0043-multiply-strings/) | Medium |
 | [0258-add-digits](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0682-baseball-game/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
