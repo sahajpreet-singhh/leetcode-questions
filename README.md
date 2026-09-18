@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1470-shuffle-the-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
