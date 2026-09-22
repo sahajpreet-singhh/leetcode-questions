@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2235-add-two-integers](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
