@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0279-perfect-squares) |
+| [0412-fizz-buzz](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0043-multiply-strings/) | Medium |
 | [0258-add-digits](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0682-baseball-game/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
