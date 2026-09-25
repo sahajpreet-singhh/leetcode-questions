@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [1672-richest-customer-wealth](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 | Problem Name | Difficulty |
