@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0682-baseball-game/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
