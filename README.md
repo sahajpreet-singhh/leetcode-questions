@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0771-jewels-and-stones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
