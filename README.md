@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2469-convert-the-temperature](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/3870-count-commas-in-range/) | Easy |
