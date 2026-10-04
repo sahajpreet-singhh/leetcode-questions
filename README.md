@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1514-path-with-maximum-probability) |
+| [1528-shuffle-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1528-shuffle-string/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1143-longest-common-subsequence) |
+| [1528-shuffle-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1528-shuffle-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
