@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2235-add-two-integers](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0844-backspace-string-compare/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
