@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1920-build-array-from-permutation](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1920-build-array-from-permutation](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
