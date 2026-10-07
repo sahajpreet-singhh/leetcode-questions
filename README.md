@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0217-contains-duplicate) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0344-reverse-string) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0328-odd-even-linked-list) |
@@ -757,4 +760,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0075-sort-colors/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
