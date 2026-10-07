@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
@@ -746,4 +749,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
