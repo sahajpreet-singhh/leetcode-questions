@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1046-last-stone-weight) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0704-binary-search/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
