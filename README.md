@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0064-minimum-path-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0169-majority-element) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
