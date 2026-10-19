@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0877-stone-game) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Union-Find
