@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2596-check-knight-tour-configuration) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [2351-first-letter-to-appear-twice](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
