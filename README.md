@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0234-palindrome-linked-list) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0043-multiply-strings/) | Medium |
 | [0072-edit-distance](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0072-edit-distance/) | Medium |
+| [0125-valid-palindrome](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sahajpreet-singhh/leetcode-questions/tree/master/0257-binary-tree-paths) |
