@@ -806,5 +806,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0182-duplicate-emails/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
