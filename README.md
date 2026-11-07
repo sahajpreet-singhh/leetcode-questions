@@ -809,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0182-duplicate-emails/) | Easy |
 | [0595-big-countries](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/sahajpreet-singhh/leetcode-questions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
